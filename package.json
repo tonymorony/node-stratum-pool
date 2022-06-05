@@ -39,6 +39,6 @@
         "verushash": "github:VerusCoin/verushash-node.git"
     },
     "engines": {
-        "node": ">=8"
+        "node": ">=10"
     }
 }
