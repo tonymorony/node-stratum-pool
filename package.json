@@ -33,8 +33,8 @@
         "base58-native": "^0.1.4",
         "bignum": "^0.13.1",
         "bitgo-utxo-lib": "github:tonymorony/bitgo-utxo-lib.git",
-        "equihashverify": "github:webworker01/equihashverify.git",
-        "merkle-bitcoin" : "github:webworker01/merkle-bitcoin.git",
+        "equihashverify": "github:tonymorony/equihashverify.git",
+        "merkle-bitcoin" : "github:tonymorony/merkle-bitcoin.git",
         "promise": "^8.0.2",
         "verushash": "github:VerusCoin/verushash-node.git"
     },
